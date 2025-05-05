@@ -1,0 +1,48 @@
+body {
+
+background-color: lightblue;
+
+font-family: Yu gothic;
+
+text-align: center;
+
+}
+
+h1 {
+
+color: white;
+
+}
+
+p {
+
+color: darkblue;
+
+font-size: 25px;
+
+}
+
+p1{
+
+color: darkblue;
+
+font-size: 20px;
+
+}
+
+
+p2 {
+
+color: white;
+
+font-size: 15px;
+
+}
+
+img {
+
+width: 400px;
+
+border-radius: 10px;
+
+}
