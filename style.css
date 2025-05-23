@@ -1,6 +1,6 @@
 body {
 
-background-color: lightblue;
+background-color: #CCCCFF;
 
 font-family: Yu gothic;
 
@@ -11,22 +11,33 @@ text-align: center;
 h1 {
 
 color: white;
+font-size: 30px;
+
 
 }
 
+h2 {
+
+color: #6633CC;
+
+font-size: 50px;
+
+}
+
+
 p {
 
-color: darkblue;
+color: #6633CC;
 
-font-size: 25px;
+font-size: 20px;
 
 }
 
 p1{
 
-color: darkblue;
+color: #6633CC;
 
-font-size: 20px;
+font-size: 25px;
 
 }
 
@@ -35,14 +46,37 @@ p2 {
 
 color: white;
 
-font-size: 15px;
+font-size: 20px;
 
 }
 
-img {
 
-width: 400px;
+
+img {
 
 border-radius: 10px;
 
+}
+
+
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  width: 80%;               
+  font-size: 18px;          
+  border: 4px solid #6633CC;  
+}
+
+td {
+  padding: 12px;            
+  text-align: center;       
+  border: 2px solid #6633CC;  
+  background-color: white;
+}
+
+a {
+  color: #9900FF;        
+  font-size: 20px;
 }
